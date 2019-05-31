@@ -988,7 +988,7 @@ img {
   border-radius: 0.25rem;
   line-height: 1.875rem;
   text-decoration: none;
-  color: #aa33ff;
+  color: #bb5566;
   -webkit-appearance: none;
   white-space: normal;
   -webkit-user-select: none;
@@ -1110,8 +1110,8 @@ a.slds-button--inverse:focus {
   vertical-align: middle;
   border: 1px solid #dddbda;
   transition: border 0.15s linear;
-  background-color: #aa33ff;
-  border-color: #aa33ff;
+  background-color: #bb5566;
+  border-color: #bb5566;
   color: white; }
 
 .slds-button_brand:link, .slds-button_brand:visited, .slds-button_brand:active,
@@ -1156,7 +1156,7 @@ a.slds-button--inverse:focus {
   transition: border 0.15s linear;
   border-color: #dddbda;
   background-color: white;
-  border-color: #aa33ff; }
+  border-color: #bb5566; }
 
 .slds-button_outline-brand:hover, .slds-button_outline-brand:focus {
   background-color: #f4f6f9; }
@@ -1630,8 +1630,8 @@ a.slds-button--inverse:focus {
   vertical-align: middle;
   border: 1px solid #dddbda;
   transition: border 0.15s linear;
-  background-color: #aa33ff;
-  border-color: #aa33ff;
+  background-color: #bb5566;
+  border-color: #bb5566;
   color: white; }
 
 .slds-button_dual-stateful.slds-is-pressed:link, .slds-button_dual-stateful.slds-is-pressed:visited, .slds-button_dual-stateful.slds-is-pressed:active {
@@ -1760,8 +1760,8 @@ a.slds-button--inverse:focus {
  * @restrict .slds-button_icon
  */
 .slds-button_icon-brand {
-  background-color: #aa33ff;
-  border-color: #aa33ff;
+  background-color: #bb5566;
+  border-color: #bb5566;
   color: white; }
 
 .slds-button_icon-brand:link, .slds-button_icon-brand:visited, .slds-button_icon-brand:active {
@@ -1924,7 +1924,7 @@ a.slds-button--inverse:focus {
 .slds-button_icon-more:hover .slds-button__icon, .slds-button_icon-more:focus .slds-button__icon,
 .slds-button--icon-more:hover .slds-button__icon,
 .slds-button--icon-more:focus .slds-button__icon {
-  fill: #aa33ff; }
+  fill: #bb5566; }
 
 .slds-button_icon-more:active .slds-button__icon,
 .slds-button--icon-more:active .slds-button__icon {
@@ -2034,8 +2034,8 @@ a.slds-button--inverse:focus {
 .slds-button--icon-border.slds-is-selected,
 .slds-button_icon-border-filled.slds-is-selected,
 .slds-button_icon-border-inverse.slds-is-selected {
-  background-color: #aa33ff;
-  border-color: #aa33ff;
+  background-color: #bb5566;
+  border-color: #bb5566;
   color: white; }
 
 .slds-button_icon-container.slds-is-selected:link, .slds-button_icon-container.slds-is-selected:visited, .slds-button_icon-container.slds-is-selected:active,
@@ -7006,7 +7006,7 @@ a.slds-button--inverse:focus {
   left: 50%;
   transform: translate3d(-50%, -50%, 0);
   border-radius: 50%;
-  background: #aa33ff; }
+  background: #bb5566; }
 
 .slds-radio [type="radio"]:focus + .slds-radio_faux,
 .slds-radio [type="radio"]:focus + .slds-radio--faux,
@@ -7167,7 +7167,7 @@ a.slds-button--inverse:focus {
 .slds-radio--button [type="radio"]:checked ~ .slds-radio--faux,
 .slds-radio--button [type="radio"]:checked + .slds-radio_button__label,
 .slds-radio--button [type="radio"]:checked + .slds-radio--button__label {
-  background-color: #aa33ff;
+  background-color: #bb5566;
   color: white; }
 
 .slds-radio_button [type="radio"]:checked + .slds-radio_faux:hover, .slds-radio_button [type="radio"]:checked + .slds-radio_faux:focus,
@@ -7403,9 +7403,9 @@ a.slds-button--inverse:focus {
   /*! @noflip */
   left: 50%;
   transform: translate3d(-50%, -50%, 0) rotate(-45deg);
-  border-bottom: 2px solid #aa33ff;
+  border-bottom: 2px solid #bb5566;
   /*! @noflip */
-  border-left: 2px solid #aa33ff; }
+  border-left: 2px solid #bb5566; }
 
 .slds-checkbox [type="checkbox"]:focus + .slds-checkbox_faux,
 .slds-checkbox [type="checkbox"]:focus + .slds-checkbox--faux,
@@ -7440,7 +7440,7 @@ a.slds-button--inverse:focus {
   left: 50%;
   width: 0.5rem;
   height: 2px;
-  background: #aa33ff;
+  background: #bb5566;
   border: 0;
   transform: translate3d(-50%, -50%, 0); }
 
@@ -7663,8 +7663,8 @@ a.slds-button--inverse:focus {
 .slds-checkbox--toggle [type="checkbox"]:checked ~ .slds-checkbox--faux,
 .slds-checkbox--toggle [type="checkbox"]:checked + .slds-checkbox_faux_container .slds-checkbox_faux,
 .slds-checkbox--toggle [type="checkbox"]:checked + .slds-checkbox--faux_container .slds-checkbox--faux {
-  border-color: #aa33ff;
-  background-color: #aa33ff; }
+  border-color: #bb5566;
+  background-color: #bb5566; }
 
 .slds-checkbox_toggle [type="checkbox"]:checked + .slds-checkbox_faux:hover, .slds-checkbox_toggle [type="checkbox"]:checked + .slds-checkbox_faux:focus,
 .slds-checkbox_toggle [type="checkbox"]:checked + .slds-checkbox--faux:hover,
@@ -7866,7 +7866,7 @@ a.slds-button--inverse:focus {
   height: 0.875rem;
   width: 0.125rem;
   margin: auto;
-  background: #aa33ff; }
+  background: #bb5566; }
 
 .slds-checkbox_add-button .slds-checkbox_faux:after,
 .slds-checkbox_add-button .slds-checkbox--faux:after,
@@ -8119,7 +8119,7 @@ a.slds-button--inverse:focus {
 .slds-checkbox--button [type="checkbox"]:checked ~ .slds-checkbox--faux,
 .slds-checkbox--button [type="checkbox"]:checked + .slds-checkbox_button__label,
 .slds-checkbox--button [type="checkbox"]:checked + .slds-checkbox--button__label {
-  background-color: #aa33ff;
+  background-color: #bb5566;
   color: white; }
 
 .slds-checkbox_button [type="checkbox"]:checked + .slds-checkbox_faux:hover, .slds-checkbox_button [type="checkbox"]:checked + .slds-checkbox_faux:focus,
@@ -8738,7 +8738,7 @@ a.slds-button--inverse:focus {
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  background: #aa33ff;
+  background: #bb5566;
   border: 0;
   box-shadow: rgba(0, 0, 0, 0.16) 0 2px 3px;
   cursor: pointer;
@@ -8761,7 +8761,7 @@ a.slds-button--inverse:focus {
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  background: #aa33ff;
+  background: #bb5566;
   border: 0;
   box-shadow: rgba(0, 0, 0, 0.16) 0 2px 3px;
   cursor: pointer;
@@ -8792,7 +8792,7 @@ a.slds-button--inverse:focus {
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  background: #aa33ff;
+  background: #bb5566;
   border: 0;
   box-shadow: rgba(0, 0, 0, 0.16) 0 2px 3px;
   cursor: pointer;
@@ -12146,7 +12146,7 @@ a.slds-button--inverse:focus {
  */
 .slds-listbox__icon-selected {
   opacity: 0;
-  fill: #aa33ff; }
+  fill: #bb5566; }
 
 /**
  * Modifier that makes selected icon visible
@@ -12159,7 +12159,7 @@ a.slds-button--inverse:focus {
   opacity: 1; }
 
 .slds-listbox__option.slds-is-selected .slds-listbox__option-icon {
-  color: #aa33ff; }
+  color: #bb5566; }
 
 /**
  * The main text of an entity listbox
@@ -12542,7 +12542,7 @@ a.slds-button--inverse:focus {
 
 .slds-dueling-list__options [aria-selected="true"],
 .slds-picklist__options [aria-selected="true"] {
-  background-color: #aa33ff;
+  background-color: #bb5566;
   color: white; }
 
 .slds-dueling-list__options [aria-selected="true"]:hover, .slds-dueling-list__options [aria-selected="true"]:focus,
@@ -12659,10 +12659,10 @@ a.slds-button--inverse:focus {
   outline: 0; }
 
 .slds-datepicker td:focus > .slds-day {
-  box-shadow: #aa33ff 0 0 0 1px inset; }
+  box-shadow: #bb5566 0 0 0 1px inset; }
 
 .slds-datepicker td.slds-is-selected > .slds-day {
-  background: #aa33ff;
+  background: #bb5566;
   color: white; }
 
 .slds-datepicker td.slds-is-selected:focus > .slds-day {
@@ -12734,7 +12734,7 @@ a.slds-button--inverse:focus {
 .slds-datepicker .slds-has-multi-row-selection .slds-is-selected-multi:last-child > .slds-day:after {
   content: '';
   position: absolute;
-  background: #aa33ff;
+  background: #bb5566;
   top: 0;
   left: -50%;
   height: 100%;
@@ -12760,7 +12760,7 @@ a.slds-button--inverse:focus {
 .slds-datepicker td.slds-is-selected-multi + .slds-is-selected-multi > .slds-day:before {
   content: '';
   position: absolute;
-  background: #aa33ff;
+  background: #bb5566;
   top: 0;
   left: -50%;
   height: 100%;
@@ -12916,7 +12916,7 @@ a.slds-button--inverse:focus {
    */ }
 
 .slds-docked-composer.slds-has-focus {
-  box-shadow: 0 0 4px 2px #aa33ff; }
+  box-shadow: 0 0 4px 2px #bb5566; }
 
 .slds-docked-composer.slds-is-open {
   height: 480px; }
@@ -13522,7 +13522,7 @@ a.slds-button--inverse:focus {
 .slds-global-header__button_icon-favorites.slds-is-selected .slds-button__icon, .slds-global-header__button--icon-favorites.slds-is-selected .slds-icon,
 .slds-global-header__button--icon-favorites.slds-is-selected .slds-button__icon {
   color: white;
-  stroke: #aa33ff;
+  stroke: #bb5566;
   stroke-width: 1px;
   fill: white; }
 
@@ -17218,8 +17218,8 @@ a.slds-button--inverse:focus {
  * @restrict .slds-path button, .slds-path-coach button
  */
 .slds-path__mark-current {
-  border-color: #aa33ff;
-  background-color: #aa33ff; }
+  border-color: #bb5566;
+  background-color: #bb5566; }
 
 .slds-path__mark-current:hover, .slds-path__mark-current:focus {
   background-color: #005fb2; }
@@ -19248,10 +19248,10 @@ a.slds-button--inverse:focus {
   box-shadow: inset 0 0 0 1px #1589ee; }
 
 .slds-split-view__list-item-action[aria-selected="true"] {
-  box-shadow: inset 4px 0 0 #aa33ff; }
+  box-shadow: inset 4px 0 0 #bb5566; }
 
 .slds-split-view__list-item-action[aria-selected="true"]:focus {
-  box-shadow: inset 4px 0 0 #aa33ff, inset 0 0 0 1px #aa33ff; }
+  box-shadow: inset 4px 0 0 #bb5566, inset 0 0 0 1px #bb5566; }
 
 /**
  * @summary Expand/Collapse button to toggle open/close state of split view
@@ -21979,7 +21979,7 @@ a.slds-button--inverse:focus {
 .slds-table th.slds-has-focus,
 .slds-table [role="gridcell"]:focus,
 .slds-table [role="gridcell"].slds-has-focus {
-  box-shadow: #aa33ff 0 0 0 1px inset; }
+  box-shadow: #bb5566 0 0 0 1px inset; }
 
 .slds-table th:active,
 .slds-table [role="gridcell"]:active {
@@ -22134,7 +22134,7 @@ a.slds-button--inverse:focus {
 .slds-is-sortable.slds-has-focus .slds-th__action:hover .slds-is-sortable__icon,
 .slds-is-sortable.slds-has-focus .slds-th__action:focus .slds-is-sortable__icon {
   display: inline-block;
-  fill: #aa33ff; }
+  fill: #bb5566; }
 
 /**
  * Actionable area inside th
@@ -22728,7 +22728,7 @@ a.slds-button--inverse:focus {
 .slds-table_edit:not(.slds-no-cell-focus) tbody tr:hover > .slds-cell-edit.slds-has-focus,
 .slds-table--edit:not(.slds-no-cell-focus) tbody tr:hover > .slds-cell-edit.slds-has-focus {
   background-color: white;
-  box-shadow: #aa33ff 0 0 0 1px inset; }
+  box-shadow: #bb5566 0 0 0 1px inset; }
 
 .slds-table_edit.slds-table tbody tr:hover > .slds-cell-edit:hover,
 .slds-table--edit.slds-table tbody tr:hover > .slds-cell-edit:hover {

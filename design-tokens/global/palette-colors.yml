@@ -120,7 +120,7 @@ props:
     release: 2.6.0
     access: global
   BRAND_ACCESSIBLE:
-    value: "#FF33FF"
+    value: "#AA33FF"
     comment: "Dark variant of BRAND that is accessible with white"
     themeable: true
     release: 2.6.0

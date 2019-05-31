@@ -108,7 +108,7 @@ props:
     release: 2.6.0
     access: global
   BRAND_DARK:
-    value: "#182337"
+    value: "#330033"
     comment: "Dark variant of BRAND that is accessible with light colors"
     themeable: true
     release: 2.6.0
@@ -120,7 +120,7 @@ props:
     release: 2.6.0
     access: global
   BRAND_ACCESSIBLE:
-    value: "#0070d2"
+    value: "#FF33FF"
     comment: "Dark variant of BRAND that is accessible with white"
     themeable: true
     release: 2.6.0
